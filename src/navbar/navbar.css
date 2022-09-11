@@ -1,0 +1,23 @@
+.navbar{   
+    width: 100%;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+.button {
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    color: white;
+    border-radius: 5%;
+    margin: 5px;
+    
+
+}
+.list-container {
+    display: inline-flex;
+    flex-direction: row;
+}
+.navbartitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
